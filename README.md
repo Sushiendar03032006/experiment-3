@@ -58,7 +58,7 @@ To create a Flowchart in UiPath using Repeat, While, and Do While loops to perfo
 
 ## Workflow:
 ![Screenshot 2025-05-03 124956](https://github.com/user-attachments/assets/f4229115-9f14-4ef3-95fa-6c128f8e24e1)
-![Screenshot 2025-05-03 125327](https://github.com/user-attachments/assets/0fea9600-e092-48e8-9aef-cba8f6a44c7d
+![Screenshot 2025-05-03 125327](https://github.com/user-attachments/assets/0fea9600-e092-48e8-9aef-cba8f6a44c7d)
 ![Screenshot 2025-05-03 131951](https://github.com/user-attachments/assets/10407ffe-fec1-4d38-9d7b-5a4b17db484b)
 
 
