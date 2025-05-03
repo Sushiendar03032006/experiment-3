@@ -44,6 +44,7 @@ To create a Flowchart in UiPath using Repeat, While, and Do While loops to perfo
            countWhile = countWhile + 1
 
 ## C. Do While Loop Section:
+```
    a.Add a third Flow Step and rename it as "Start - DoWhile".
    b.Declare variable:
       countDo = 1 (Type: Int32)
@@ -53,6 +54,7 @@ To create a Flowchart in UiPath using Repeat, While, and Do While loops to perfo
         Add a Message Box: 
            Message: "DoWhile: Count is " + countDo.ToString
         Add an Assign activity:countDo = countDo + 1
+```
 
 ## Workflow:
 ![Screenshot 2025-05-03 124956](https://github.com/user-attachments/assets/f4229115-9f14-4ef3-95fa-6c128f8e24e1)
