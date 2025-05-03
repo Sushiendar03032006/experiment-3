@@ -4,7 +4,7 @@ To create a Flowchart in UiPath using Repeat, While, and Do While loops to perfo
 ## Software Required:
 ```
 1.UiPath Studio (2021 or later version recommended)
-2.Windows Operating System
+2.Windows Operating System.
 ```
 ## PROCEDURE:
 
